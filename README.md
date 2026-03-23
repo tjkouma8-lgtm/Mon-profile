@@ -25,7 +25,7 @@ I implement models from scratch and calibrate them on real market data.
 | [Quant Equity Strategy](https://github.com/tjkouma8-lgtm/Quant-Equity-Strategy) | LASSO · Ridge · Boosting · Sharpe · IC · PCA | Python |
 | [Interest Rate Models](https://github.com/tjkouma8-lgtm/Interest-Rate-Models) | Vasicek · Ho-Lee · Hull-White · term structure | Python |
 | [Asian Option Pricing](https://github.com/tjkouma8-lgtm/Asian-Option-Pricing) | Transform methods · 2D model · semi-analytical formulas | Python |
-
+| [Rough Volatility Model](https://github.com/tjkouma8-lgtm/Rough-Volatility-Model) | Rough Bergomi · fBm · Hurst calibration · ATM skew power-law | Python |
 ---
 
 ## 📫 Contact
